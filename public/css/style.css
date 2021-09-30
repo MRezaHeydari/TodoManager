@@ -1,0 +1,14 @@
+body{
+    background: url('../images/katerina-pavlyuchkova-f8rG32kq9C4-unsplash.jpg');
+    
+}
+.card-task-bg {
+    background: -webkit-linear-gradient(top , #0a86eb, rgba(13, 238, 163, 0.333)) no-repeat;
+    width: 30%;
+}
+.card-task-bg-done {
+    background: -webkit-linear-gradient(top , #171718, rgba(17, 26, 23, 0.333)) no-repeat;
+    width: 30%;
+    color: white;
+    text-decoration: line-through;
+}
